@@ -1,5 +1,5 @@
-SRC=/Users/viggneshk/Documents/EditedH264/Pause/
-DEST=/Users/viggneshk/Documents/TrackYoga/Pause_Image/
+SRC=/media/input
+DEST=/media/output
 DEST_EXT=png
 
 for FILE in `ls $SRC`
