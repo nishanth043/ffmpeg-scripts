@@ -1,5 +1,5 @@
 # ffmpeg-scripts
-This rep is to collect and collaborate commonly and not so commonly used video encoding use cases with ffmpeg.
+This repo is to collaborate on commonly used video, audio and image encoding/decoding use cases with ffmpeg.
 
 # video-to-image.sh
 
